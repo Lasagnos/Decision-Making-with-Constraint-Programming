@@ -1,0 +1,28 @@
+{
+    "openFiles": [
+        "sudoku_io-minVal.mzn",
+        "sudoku_io-randVal.mzn",
+        "sudoku_mds-minVal.mzn",
+        "sudoku_mds-randVal.mzn",
+        "sudoku_domWdeg-minVal.mzn",
+        "sudoku_domWdeg-randVal.mzn",
+        "9x9_4.dzn",
+        "9x9_5.dzn",
+        "9x9_6.dzn"
+    ],
+    "openTab": 5,
+    "projectFiles": [
+        "9x9_4.dzn",
+        "9x9_5.dzn",
+        "9x9_6.dzn",
+        "solverConfig.mpc",
+        "sudoku_domWdeg-minVal.mzn",
+        "sudoku_domWdeg-randVal.mzn",
+        "sudoku_io-minVal.mzn",
+        "sudoku_io-randVal.mzn",
+        "sudoku_mds-minVal.mzn",
+        "sudoku_mds-randVal.mzn"
+    ],
+    "selectedSolverConfigFile": "solverConfig.mpc",
+    "version": 106
+}

@@ -1,0 +1,20 @@
+{
+    "openFiles": [
+        "nqueens_default.mzn",
+        "nqueens_domWdeg.mzn",
+        "nqueens_domWdeg-restart.mzn",
+        "nqueens_domWdeg-restart-lns.mzn",
+        "n50.dzn"
+    ],
+    "openTab": 3,
+    "projectFiles": [
+        "n50.dzn",
+        "nqueens_default.mzn",
+        "nqueens_domWdeg-restart-lns.mzn",
+        "nqueens_domWdeg-restart.mzn",
+        "nqueens_domWdeg.mzn",
+        "solverConfig.mpc"
+    ],
+    "selectedSolverConfigFile": "solverConfig.mpc",
+    "version": 106
+}

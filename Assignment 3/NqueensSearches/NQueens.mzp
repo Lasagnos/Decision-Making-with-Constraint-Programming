@@ -1,0 +1,30 @@
+{
+    "openFiles": [
+        "nqueens_io-minVal.mzn",
+        "nqueens_io-randVal.mzn",
+        "nqueens_mds-minVal.mzn",
+        "nqueens_mds-randVal.mzn",
+        "nqueens_domWdeg-minVal.mzn",
+        "nqueens_domWdeg-randVal.mzn",
+        "n30.dzn",
+        "n35.dzn",
+        "n45.dzn",
+        "n50.dzn"
+    ],
+    "openTab": 5,
+    "projectFiles": [
+        "n30.dzn",
+        "n35.dzn",
+        "n45.dzn",
+        "n50.dzn",
+        "nqueens_domWdeg-minVal.mzn",
+        "nqueens_domWdeg-randVal.mzn",
+        "nqueens_io-minVal.mzn",
+        "nqueens_io-randVal.mzn",
+        "nqueens_mds-minVal.mzn",
+        "nqueens_mds-randVal.mzn",
+        "solverConfig.mpc"
+    ],
+    "selectedSolverConfigFile": "solverConfig.mpc",
+    "version": 106
+}

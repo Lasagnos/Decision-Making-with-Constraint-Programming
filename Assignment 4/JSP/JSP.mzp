@@ -1,0 +1,24 @@
+{
+    "openFiles": [
+        "jobshop.mzn",
+        "jobshop1.dzn",
+        "jobshop2.dzn",
+        "jobshop3.dzn",
+        "jobshop5.dzn",
+        "jobshop6.dzn",
+        "jobshop_19.dzn"
+    ],
+    "openTab": 6,
+    "projectFiles": [
+        "jobshop.mzn",
+        "jobshop1.dzn",
+        "jobshop2.dzn",
+        "jobshop3.dzn",
+        "jobshop5.dzn",
+        "jobshop6.dzn",
+        "jobshop_19.dzn",
+        "solverConfig.mpc"
+    ],
+    "selectedSolverConfigFile": "solverConfig.mpc",
+    "version": 106
+}

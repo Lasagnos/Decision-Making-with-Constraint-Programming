@@ -1,0 +1,18 @@
+{
+    "openFiles": [
+        "sequence_base.mzn",
+        "sequence_implied.mzn",
+        "n500.dzn",
+        "n1000.dzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "n1000.dzn",
+        "n500.dzn",
+        "sequence_base.mzn",
+        "sequence_implied.mzn",
+        "solverConfig.mpc"
+    ],
+    "selectedSolverConfigFile": "solverConfig.mpc",
+    "version": 106
+}

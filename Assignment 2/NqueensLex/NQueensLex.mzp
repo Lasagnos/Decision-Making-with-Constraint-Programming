@@ -1,0 +1,20 @@
+{
+    "openFiles": [
+        "nqueens_Lex.mzn",
+        "nqueens_MyLex.mzn",
+        "n13.dzn",
+        "n14.dzn",
+        "n15.dzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "n13.dzn",
+        "n14.dzn",
+        "n15.dzn",
+        "nqueens_Lex.mzn",
+        "nqueens_MyLex.mzn",
+        "solverConfig.mpc"
+    ],
+    "selectedSolverConfigFile": "solverConfig.mpc",
+    "version": 106
+}

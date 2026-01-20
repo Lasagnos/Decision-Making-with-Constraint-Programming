@@ -1,0 +1,22 @@
+{
+    "openFiles": [
+        "sudoku_m1.mzn",
+        "sudoku_m2.mzn",
+        "sudoku_m3.mzn",
+        "9x9_6.dzn",
+        "9x9_7.dzn",
+        "16x16_12.dzn"
+    ],
+    "openTab": 2,
+    "projectFiles": [
+        "16x16_12.dzn",
+        "9x9_6.dzn",
+        "9x9_7.dzn",
+        "solverConfig.mpc",
+        "sudoku_m1.mzn",
+        "sudoku_m2.mzn",
+        "sudoku_m3.mzn"
+    ],
+    "selectedSolverConfigFile": "solverConfig.mpc",
+    "version": 106
+}

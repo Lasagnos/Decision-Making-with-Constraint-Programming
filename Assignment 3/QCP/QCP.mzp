@@ -1,0 +1,26 @@
+{
+    "openFiles": [
+        "qcp_default.mzn",
+        "qcp_domWdeg-randVal.mzn",
+        "qcp_domWdeg-randVal-LubyRestart.mzn",
+        "qc30-03.dzn",
+        "qc30-05.dzn",
+        "qc30-08.dzn",
+        "qc30-12.dzn",
+        "qc30-19.dzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "qc30-03.dzn",
+        "qc30-05.dzn",
+        "qc30-08.dzn",
+        "qc30-12.dzn",
+        "qc30-19.dzn",
+        "qcp_default.mzn",
+        "qcp_domWdeg-randVal-LubyRestart.mzn",
+        "qcp_domWdeg-randVal.mzn",
+        "solverConfig.mpc"
+    ],
+    "selectedSolverConfigFile": "solverConfig.mpc",
+    "version": 106
+}

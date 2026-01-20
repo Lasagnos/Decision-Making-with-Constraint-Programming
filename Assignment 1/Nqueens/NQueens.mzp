@@ -1,0 +1,31 @@
+{
+    "openFiles": [
+        "nqueens_r.mzn",
+        "nqueens_rc1.mzn",
+        "nqueens_rc2.mzn",
+        "nqueens_rc3.mzn",
+        "nqueens_alldiff.mzn",
+        "nqueens_alldiffsym.mzn",
+        "n8.dzn",
+        "n9.dzn",
+        "n10.dzn",
+        "n12.dzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "n10.dzn",
+        "n12.dzn",
+        "n8.dzn",
+        "n9.dzn",
+        "nqueens_alldiff.mzn",
+        "nqueens_alldiffsym.mzn",
+        "nqueens_r.mzn",
+        "nqueens_rc.mzn",
+        "nqueens_rc1.mzn",
+        "nqueens_rc2.mzn",
+        "nqueens_rc3.mzn",
+        "solverConfig.mpc"
+    ],
+    "selectedSolverConfigFile": "solverConfig.mpc",
+    "version": 106
+}
